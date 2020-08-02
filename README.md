@@ -1,5 +1,5 @@
 ## Welcome to Saurabh Ahuja Profile - Build Provisioning Infra Engineer
-**Contact Email- sauraahu@gmail.com , [Linkedin](https://www.linkedin.com/in/ersaurabhahuja), Mobile- +91-7406700101** 
+**Contact Email- sauraahu@gmail.com , [Linkedin](https://www.linkedin.com/in/saurabhahuja-dev), Mobile- +91-7406700101** 
 
 ### Profile Summary
 
@@ -7,7 +7,7 @@
 __Extensive experience of 10 years as Infra Structure Engineer in Public/Private Cloud and earlier in on premise infra.__  
 __Serving as a key leader and expert on Build/CI/Provisioning/CD practices and components; mentoring and leading project teams in Cloud DevOps engagements.__  
 __Currently working as a Senior Member Technical Staff for Identify Cloud Service  project in Oracle Cloud Business Unit, Oracle Bangalore.__  
-__Open Source Contributor at [Github](https://github.com/sauraahu)__
+__Open Source Contributor at [Github](https://github.com/saurabhahuja-dev)__
 
 ### Education
 __B.E (Information Technology) from Punjab Engineering College, University of Technology, Chandigarh session 2005-2009 with CGPA-7.9.__  
