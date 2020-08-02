@@ -1,5 +1,5 @@
 ## Welcome to Saurabh Ahuja Profile - Build Provisioning Infra Engineer
-![__Saurabh Ahuja__](https://github.com/SaurabhAhuja-Dev/SaurabhAhuja-Dev.github.io/blob/master/SaurabhAhuja.jpg)  
+__![Saurabh Ahuja](https://github.com/SaurabhAhuja-Dev/SaurabhAhuja-Dev.github.io/blob/master/SaurabhAhuja.jpg)__
 __Email- sauraahu@gmail.com   
 [https://www.linkedin.com/in/saurabhahuja-dev](https://www.linkedin.com/in/saurabhahuja-dev)  
 Mobile- +91-7406700101__
