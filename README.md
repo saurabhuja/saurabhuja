@@ -7,7 +7,7 @@ Mobile- +91-7406700101__
 ### Profile Summary
 
 
-__Extensive experience of 10 years as Infra Structure Engineer in Public/Private Cloud and earlier in on premise infra.__  
+__Development experience of 11 years as a Cloud Infrastructure Engineer in Public/Private Cloud and earlier in on premise infra.__  
 __Serving as a key leader and expert on Build/CI/Provisioning/CD practices and components; mentoring and leading project teams in Cloud DevOps engagements.__  
 __Currently working as a Senior Member Technical Staff for Identify Cloud Service  project in Oracle Cloud Business Unit, Oracle Bangalore.__  
 __Open Source Contributor at [Github](https://github.com/saurabhahuja-dev)__
@@ -16,10 +16,10 @@ __Open Source Contributor at [Github](https://github.com/saurabhahuja-dev)__
 __B.E (Information Technology) from Punjab Engineering College, University of Technology, Chandigarh session 2005-2009 with CGPA-7.9.__  
 
 ### Skills
-Languages – GoLang, Shell, Python, Java, .NET, Groovy, C.  
-Devops Tools – Bitbucket , Subversion, Jenkins, Teamcity, Terraform, Sonarqube, Fortify, New Relic, Splunk, Gradle, Maven, ANT, Dockers, Docker-Compose, Kubernetes, Redhat Open shift.  
-Web/Application Server- Apache, Tomcat.  
-Operating Systems- Redhat & Oracle Linux 6&7, Windows Server 2012.  
+Languages – Shell, Python,  Java, .NET, Groovy, C, GoLang, NodeJS. 
+Devops Tools – Bitbucket , Jenkins, Teamcity, Terraform, Ansible, Sonarqube, Docker, Kubernetes, Gradle, Artifactory, Fortify, New Relic, Splunk, Maven, ANT,Redhat Open shift, Subversion. 
+Web/Application Server- Apache, Tomcat, Container Applications. 
+Operating Systems- Redhat & Oracle Linux 6&7&8, Windows Server 2012.  
 Database - Oracle 11g / 12c, Redis DB, MS SQL Server 2012, MYSQL.  
 Cloud- AWS, Oracle Cloud, Azure, Google Cloud.  
 
@@ -28,12 +28,12 @@ Cloud- AWS, Oracle Cloud, Azure, Google Cloud.
 1. __Oracle India Pvt Ltd, Bangalore  
 23-October-2017 – Till now  
 Senior Member Technical Staff__  
-   * Responsible for Designing, Implementation of CI solution and infrastructure (~70 Oracle linux 6.8 and 5 Windows Server 2012) for Oracle’s Identity Cloud Service (based on tech stack - NodeJs, Java, .NET, Groovy, XML, Gradle, Oracle 12c Db etc.) through Teamcity which includes artifact generation, unit testing, code scans,  docker containers generation, API and UI Integration Test executions and final upload to artifactory for production deployments for multiple release branches across different data centers in Oracle Cloud and monitoring build systems through Zabbix.  
+   * Responsible for Designing, Implementation of CI solution and infrastructure (~70 Oracle linux v6.8 /7.6 and 5 Windows Server v2012) for Oracle’s Identity Cloud Service (tech stack - NodeJs, Java, .NET, Groovy, C, Gradle, Oracle 12c Db etc.) through Teamcity which includes artifact generation/uploads to artifactory, unit/integration testing, code scans through fortify,  to cater to multiple release branches across different data centers in Oracle Cloud and monitoring build systems through Zabbix. Managing infrastructure configuration through Ansible.  
    * Responsible for development and maintenance of build reports based  python through GIT API and Teamcity API for multiple releases.  
    * Responsible for managing multiple release,feature,epic,experimental branches, access permissions, hooks and merge strategies in Bitbucket GIT for IDCS. 
    * Responsible for Provisioning of IDCS product in [Oracle Cloud](https://www.oracle.com/in/cloud/sign-in.html) through Terraform, Kubernetes Cluster and monitoring. Ensuring regular upgrades, stability and high availability of same.  
    * Recruiting, interviewing, mentoring , coaching and layout improvement plans for achieving desired business objectives with test driven development across large  & distributed global teams.  
-   * Achievements- Upgradation of CI infrastructure like OL 6.6 to 6.8,Linux Kernel 3 to 4,  JDK 7 to 8, Nodejs 6.6 to 6.9, Docker 1.8 to 1.12, Windows Server 2008 R2 to Windows Server 2012, Visual Sutdio 2015 to Visual Studio 2019,  etc. Forward merges of code for latest releases every week & Setup of daily/weekly build reports through Python.   
+   * Achievements- Upgradation of CI infrastructure like OL 6.6 to 6.8,Linux Kernel 3 to 4,  JDK 7 to 8, Nodejs 6.6 to 6.9, Docker 1.8 to 1.12, Windows Server 2008 R2 to Windows Server 2012, Visual Sutdio 2015 to Visual Studio 2019,  etc. Forward merges of code for latest releases every week & Setup of daily/weekly build reports through Python.Achieved build  pipeline success rate of 95 % from 40% by stream lining build pipelines for stabiility, automating merge validation.   
 2. __Optum Global Solutions (India) Private Limited (formerly- UnitedHealth Group Information Services Pvt. Ltd), Bangalore  
 15-Feb-2016 to 18-Sep-2017  
 Senior Engineer Build and Release__  
