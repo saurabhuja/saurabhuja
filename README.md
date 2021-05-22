@@ -9,7 +9,7 @@ Mobile- +91-7406700101__
 
 __Development experience of 11 years as a Cloud Infrastructure Engineer in Public/Private Cloud and earlier in on premise infra.__  
 __Serving as a key leader and expert on Build/CI/Provisioning/CD practices and components; mentoring and leading project teams in Cloud DevOps engagements.__  
-__Currently working as a Senior Member Technical Staff for Identify Cloud Service  project in Oracle Cloud Business Unit, Oracle Bangalore.__  
+__Currently working as a Senior Member Technical Staff for Identify Cloud Service  project in Oracle Bangalore.__  
 __Open Source Contributor at [Github](https://github.com/saurabhahuja-dev)__
 
 ### Education
