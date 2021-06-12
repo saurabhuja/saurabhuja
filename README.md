@@ -1,8 +1,41 @@
-## Build Provisioning Cloud Infra Engineer
+<h1 align="center">Hi 👋, I'm Saurabh Ahuja</h1>
+<h3 align="center">A passionate Cloud Infrastructure Engineer in Public and Private Cloud</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhahujadev&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhahujadev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhahujadev" alt="saurabhahujadev" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/saurabhahujadev" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhahujadev?logo=twitter&style=for-the-badge" alt="saurabhahujadev" /></a> </p>
+
+- 🔭 I’m currently working on **Identity Cloud Services, Oracle**
+
+- 🌱 I’m currently learning **Golang**
+
+- 👯 I’m looking to collaborate on **Python, Golang, Terraform, Docker, K8S, CI/CD**
+
+- 👨‍💻 All of my projects are available at [https://saurabhahujadev.github.io/](https://saurabhahujadev.github.io/)
+
+- 📫 How to reach me **sauraahu@gmail.com** **+91-7406700101**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/saurabhahujadev/](https://www.linkedin.com/in/saurabhahujadev/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/saurabhahujadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabhahujadev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saurabhahujadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhahujadev" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhahujadev&show_icons=true&locale=en&layout=compact" alt="saurabhahujadev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhahujadev&show_icons=true&locale=en" alt="saurabhahujadev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhahujadev&" alt="saurabhahujadev" /></p>
+
+
 __![Saurabh Ahuja](https://github.com/saurabhahujadev/saurabhahujadev.github.io/blob/master/SaurabhAhuja.jpg)__  
-__Email- sauraahu@gmail.com   
-[https://www.linkedin.com/in/saurabhahuja-dev](https://www.linkedin.com/in/saurabhahujadev)  
-Mobile- +91-7406700101__
 
 ### Profile Summary
 
@@ -10,7 +43,6 @@ Mobile- +91-7406700101__
 __Development experience of 11 years as a Cloud Infrastructure Engineer in Public/Private Cloud and earlier in on premise infra.__  
 __Serving as a key leader and expert on Build/CI/Provisioning/CD practices and components; mentoring and leading project teams in Cloud DevOps engagements.__  
 __Currently working as a Senior Member Technical Staff for Identify Cloud Service  project in Oracle Bangalore.__  
-__Open Source Contributor at [Github](https://github.com/saurabhahujadev)__
 
 ### Education
 __B.E (Information Technology) from Punjab Engineering College, University of Technology, Chandigarh session 2005-2009 with CGPA-7.9.__  
