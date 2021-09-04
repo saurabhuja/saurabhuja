@@ -89,7 +89,15 @@ Configuration Management Engineer__
     * Responsible for development of Saratoga CRM Windows installers for production releases through CCNET,NANT.  
     * Configuration and Management of TFS source control systems. Participation with Product team to define branch strategy, release schedule, test execution schedule.  
     * Achievements- Redesigned Saratoga CRM product windows based installers through Install-shield for Rich Client, Thin Client EXE’s for silent command line installations from installscript project to MSI project. 
-5. __Accenture Services Pvt Ltd, Bangalore  
+    
+5. __Dell International Services, Bangalore  
+28-Mar-2011 – 29- Mar-2013  
+Application Management Analyst__  
+Responsibilities:  
+    • Responsible for management of QA environment  through schedule and unscheduled deployments using TFS, Cruise Control .NET and Dell scheduler for OPE (www.dell.com) production releases.  
+    • Microsoft Patching for 1000+ windows based QA servers every month.  
+
+6. __Accenture Services Pvt Ltd, Bangalore  
 1-Dec-2009 – 17-Mar-2011  
 Software Engineer  
 Client:  Travelers Insurance__  
