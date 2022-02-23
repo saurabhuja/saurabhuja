@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahujasa.github.io/](https://ahujasa.github.io/)
 
-- 📫 How to reach me **sauraahu@gmail.com** **+91-7406700101**
+- 📫 How to reach me @ **sauraahu@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahujasa/](https://www.linkedin.com/in/ahujasa/)
 
