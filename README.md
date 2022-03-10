@@ -40,7 +40,7 @@ __![Saurabh Ahuja](https://github.com/saurabhahujadev/saurabhahujadev.github.io/
 ### Profile Summary
 
 
-__12 years of exeperience as Site Reliability Developer in Public Cloud, Private Cloud and on-premise infrastructure.__  
+__12 years of experience as Site Reliability Developer in Public Cloud, Private Cloud and on-premise infrastructure.__  
 __Serving as a key leader and expert on Build/CI/Cloud Provisioning/CD practices and components; mentoring and leading project teams in Cloud DevOps engagements.__  
 __Currently working as a Principal Member Technical Staff for Identify Project in Oracle Bangalore.__  
 
