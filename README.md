@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahujasa85" target="blank"><img src="https://img.shields.io/twitter/follow/ahujasa85?logo=twitter&style=for-the-badge" alt="ahujasa" /></a> </p>
 
-- 🔭 I’m currently working on **Identity Project in Oracle Cloud**
+- 🔭 I’m currently working as **Site Reliability Developer for Exadata/Database team in Oracle to Lead DB Cloud HA Responsibilities.**
 
 - 🌱 I’m currently learning **Golang**
 
@@ -42,7 +42,7 @@ __![Saurabh Ahuja](https://github.com/saurabhahujadev/saurabhahujadev.github.io/
 
 __12 years of experience as Site Reliability Developer in Public Cloud, Private Cloud and on-premise infrastructure.__  
 __Serving as a key leader and expert on Build/CI/Cloud Provisioning/CD practices and components; mentoring and leading project teams in Cloud DevOps engagements.__  
-__Currently working as a Principal Member Technical Staff for Identify Project in Oracle Bangalore.__  
+__Currently working as a Site Reliability Developer for Exadata/Database team in Oracle to Lead DB Cloud HA Responsibilities in Bangalore.__  
 
 ### Education
 __B.E (Information Technology) from Punjab Engineering College, University of Technology, Chandigarh session 2005-2009 with CGPA-7.9.__  
@@ -60,20 +60,24 @@ Cloud- AWS, Oracle Cloud, Azure, Google Cloud.
 1. __Oracle India Pvt Ltd, Bangalore  
 23-October-2017 – Till now  
 Principal Member Technical Staff__  
-   * Responsible for Designing, Implementation of CI solution and infrastructure (~70 Oracle linux v6.8 /7.6 and 5 Windows Server v2012) for Oracle’s Identity Cloud Service (tech stack - NodeJs, Java, .NET, Groovy, C, Gradle, Oracle 12c Db etc.) through Teamcity which includes artifact generation/uploads to artifactory, unit/integration testing, code scans through fortify,  to cater to multiple release branches across different data centers in Oracle Cloud and monitoring build systems through Zabbix. Managing infrastructure configuration through Ansible.  
+   * Development of K8S operator through Golang for Database products in Exadata team since April 2022.  
+   * Design & Implementation of CI (Teamcity) for Identity project (IDCS) (size- 70+ Oracle Linux VMs and 5+ Windows VMs v2019/2022) through Ansible and Terraform (stack - NodeJs, Java,  C/C++, Makefile, Maven, Gradle, .NET(msbuilds), Groovy, Oracle 12c Db etc.) to cater to multiple weekly release branches for (20-30) production data centers in Oracle Cloud. Developed build automated reports for IDCS through Python,  Bitbucket API, Teamcity API etc.   
    * Responsible for development and maintenance of build reports based  python through GIT API and Teamcity API for multiple releases.  
    * Responsible for managing multiple release,feature,epic,experimental branches, access permissions, hooks and merge strategies in Bitbucket GIT for IDCS. 
    * Responsible for Cloud Infra Provisioning of IDCS product in [Oracle Cloud](https://www.oracle.com/in/cloud/sign-in.html) through Terraform, Kubernetes Cluster and monitoring. Ensuring regular upgrades, stability and high availability of same.  
-   * Recruiting, interviewing, mentoring , coaching and layout improvement plans for achieving desired business objectives with test driven development across large  & distributed global teams.  
-   * Achievements- Upgradation of CI infrastructure like OL 6.6 to 6.8,Linux Kernel 3 to 4,  JDK 7 to 8, Nodejs 6.6 to 6.9, Docker 1.8 to 1.12, Windows Server 2008 R2 to Windows Server 2012, Visual Sutdio 2015 to Visual Studio 2019,  etc. Forward merges of code for latest releases every week & Setup of daily/weekly build reports through Python.Achieved build  pipeline success rate of 95 % from 40% by stream lining build pipelines for stabiility, automating merge validation.   
+   * Recruiting, interviewing, mentoring , coaching and layout improvement plans for achieving desired business objectives with test driven development across large  & distributed global teams (teamsize of 6-10).      
+   * Achievements-  
+   * Achieved build stability of 95% from 40% though various improvements in pipelines and up-gradation of CI infrastructure of 70 VM’s from OL6 to OL7, Kernel 3.x to 5.x, etc.  
+   * Migrated IDCS product from Oracle JDK  1.8 to GraalVM JDK 20.3.3 to bring 10% improvements in performance of Java Threads.   
+   * Made Identity Product Fedramp Compliance & Secure (through Code Scans of 3rd party Binaries , Docker images and Helm Charts  based on Fortify, McAfee, Anchore, Burp etc.) for Public and US Gov Regions.   
 2. __Optum Global Solutions (India) Private Limited (formerly- UnitedHealth Group Information Services Pvt. Ltd), Bangalore  
 15-Feb-2016 to 18-Sep-2017  
 Senior Engineer Build and Release__  
    * Responsible for development and maintenance of CI/CD solutions for Optum Cloud products based on Java and .NET tech stack through Dockers, Open shift, Jenkins, Anthill Pro, Bitbucket Git, XL Deploy, XL Release deployments etc. 
    * Defining and Implementing Auto scaling strategy, Rolling Strategy, New Relic performance monitoring tool and Splunk indexer for Open shift production deployments through Jenkins Groovy pipeline.
    * Defining strategies for Fortify Security scans and Sonarqube Code Quality Gate Model for achieving Management by Business Objectives for maintaining high quality code through Jenkins and Anthill.
-   * POC to deploy application on AWS cloud through EC2/S3 bucket.
-   * Brought Devops Culture in Optum Cloud products during IDC time and mentoring and training juniors while leading Devops team and initiatives.
+   * POC’s to deploy web application on AWS, GCP, Azure cloud through terraform, managed Cloud Kubernetes Cluster.  
+   * Brought Devops Culture in Optum Cloud products during IDC time and mentoring and training juniors( team size 4-5 engineers)  while leading Devops team and initiatives.
    * Achievements- Developed end to end CI/CD solutions through Jenkins Groovy pipeline for FileVault and Optum ID project for production deployments  and integration with new Relic, Splunk for monitoring purposes.
 3. __Avesta Computer pvt ltd [ deployed to client- Cisco Systems ] , Bangalore  
 2- June-2014 – 12-Feb-2016  
