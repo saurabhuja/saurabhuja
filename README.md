@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Python, Golang, Terraform, Docker, K8S, CI/CD**
 
-- 👨‍💻 All of my projects are available at [https://ahujasa.github.io/](https://ahujasa.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/ahujasa](https://github.com/ahujasa)
 
 - 📫 How to reach me @ **sauraahu@gmail.com**
 
