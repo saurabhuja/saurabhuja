@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working as **Site Reliability Developer for Exadata/Database team in Oracle to Lead DB Cloud HA Responsibilities.**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang** **Java** and **Ansible**
 
-- 👯 I’m looking to collaborate on **Python, Golang, Terraform, Docker, K8S, CI/CD**
+- 👯 I’m looking to collaborate on **Python, Golang, Ansible, REST API, Java Terraform, Docker, K8S, CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahujasa](https://github.com/ahujasa)
 
