@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhaahujaa&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhaahujaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhaahujaa" alt="saurabhaahujaa" /></a> </p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 - 🔭 I’m currently working as **Site Reliability Developer for Exadata/Database team in Oracle to Lead DB Cloud HA Responsibilities.**
 
 - 🌱 I’m currently learning **Golang** **Java** and **Ansible**
