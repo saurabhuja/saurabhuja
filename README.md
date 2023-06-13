@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/saurabhaahujaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhaahujaa" height="30" width="40" /></a>
 </p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="saurabhaahujaa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/saurabhaahujaa?trk=profile-badge">Saurabh A.</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="saurabhaahujaa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/saurabhaahujaa?trk=profile-badge">Saurabh Ahuja</a></div>
               
 
 <h3 align="left">Languages and Tools:</h3>
