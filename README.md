@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Saurabh Ahuja</h1>
+<h1 align="center">Hi, I'm Saurabh Ahuja</h1>
 <h3 align="center">A passionate Site Reliability Developer in Public Cloud, Private Cloud and on-premise infrastructure and Golang Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhaahujaa&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhaahujaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhaahujaa" alt="saurabhaahujaa" /></a> </p>
-- 🔭 I’m currently working as **Site Reliability Developer for Exadata/Database team in Oracle to Lead DB Cloud HA Responsibilities.**
+- I’m currently working as **Site Reliability Developer for Exadata/Database team in Oracle to Lead DB Cloud HA Responsibilities.**
 
-- 🌱 I’m currently learning **Golang** **Java** and **Ansible**
+- I’m currently learning **Golang** **Java** and **Ansible**
 
-- 👯 I’m looking to collaborate on **Python, Golang, Ansible, REST API, Java Terraform, Docker, K8S, CI/CD**
+- I’m looking to collaborate on **Python, Golang, Ansible, REST API, Java Terraform, Docker, K8S, CI/CD**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saurabhaahujaa](https://github.com/saurabhaahujaa)
+- All of my projects are available at [https://github.com/saurabhaahujaa](https://github.com/saurabhaahujaa)
 
-- 📫 How to reach me @ **saurabhaahujaa@gmail.com**
+- How to reach me @ **saurabhaahujaa@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/saurabhaahujaa/](https://www.linkedin.com/in/saurabhaahujaa/)
+- Know about my experiences [https://www.linkedin.com/in/saurabhaahujaa/](https://www.linkedin.com/in/saurabhaahujaa/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
