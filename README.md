@@ -12,8 +12,6 @@
 
 - All of my projects are available at [https://github.com/saurabhaahujaa](https://github.com/saurabhaahujaa)
 
-- How to reach me @ **saurabhaahujaa@gmail.com**
-
 - Know about my experiences [https://www.linkedin.com/in/saurabhaahujaa/](https://www.linkedin.com/in/saurabhaahujaa/)
 
 <h3 align="left">Connect with me:</h3>
