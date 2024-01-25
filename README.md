@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhaahujaa" alt="saurabhaahujaa" /></a> </p>
 - I’m currently working as **Site Reliability Developer for Exadata/Database team in Oracle to Lead DB Cloud HA Responsibilities.**
 
-- I’m currently learning **Golang** **Java** and **Ansible**
+- I’m currently learning **Golang** , **Java** , **Rust** and **Ansible**
 
-- I’m looking to collaborate on **Python, Golang, Ansible, REST API, Java Terraform, Docker, K8S, CI/CD**
+- I’m looking to collaborate on **Python, Golang, Ansible, REST API, Java, Terraform, Podman, Docker, K8S, CI/CD**
 
 - All of my projects are available at [https://github.com/saurabhaahujaa](https://github.com/saurabhaahujaa)
 
@@ -36,8 +36,8 @@ __![Saurabh Ahuja](https://github.com/saurabhahujadev/saurabhahujadev.github.io/
 ### Profile Summary
 
 
-__12 years of experience as Site Reliability Developer in Public Cloud, Private Cloud and on-premise infrastructure.__  
-__Serving as a key leader and expert on Build/CI/Cloud Provisioning/CD practices and components; mentoring and leading project teams in Cloud DevOps engagements.__  
+__14 years of experience as InfraStructure Developer in Public Cloud, Private Cloud and on-premise infrastructure.__  
+__Serving as a key Infra developer and expert on Build/CI/Cloud Provisioning/CD practices and components; mentoring and leading project teams in Cloud DevOps engagements.__  
 __Currently working as a Site Reliability Developer for Exadata/Database team in Oracle to Lead DB Cloud HA Responsibilities in Bangalore.__  
 
 ### Education
