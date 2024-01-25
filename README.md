@@ -3,6 +3,8 @@
 ## About Me
 I'm a passionate Site Reliability Developer with over 14 years of experience in Public Cloud, Private Cloud, and on-premise infrastructure. I specialize in Python and have a strong interest in learning new technologies like Golang, Rust, and Ansible.
 
+[![GitHub Profile](https://img.shields.io/badge/-saurabhaahujaa-black?style=flat&logo=github&logoColor=white&link=https://github.com/saurabhaahujaa)](https://github.com/saurabhaahujaa)
+
 ### 🌱 Currently Learning
 - Golang
 - Java
