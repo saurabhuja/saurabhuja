@@ -26,6 +26,9 @@ I'm a passionate Site Reliability Developer with over 14 years of experience in 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-saurabhaahujaa-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/saurabhaahujaa)](https://linkedin.com/in/saurabhaahujaa)
 
+## GitHub Contribution Chart
+Check out my recent contributions on [GitHub](https://github.com/saurabhaahujaa).
+
 ## Languages and Tools
 - Shell
 - Python
