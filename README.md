@@ -3,7 +3,7 @@
 ## About Me
 I'm a passionate Site Reliability Developer with over 14 years of experience in Public Cloud, Private Cloud, and on-premise infrastructure. I specialize in Python and have a strong interest in learning new technologies like Golang, Rust, and Ansible.
 
-[![GitHub Profile](https://img.shields.io/badge/-ersauraja-black?style=flat&logo=github&logoColor=white&link=https://github.com/ersauraja)](https://github.com/ersauraja)
+[![GitHub Profile](https://img.shields.io/badge/-saurabhuja-black?style=flat&logo=github&logoColor=white&link=https://github.com/saurabhuja)](https://github.com/saurabhuja)
 
 ### 🌱 Currently Learning
 - Golang
@@ -24,10 +24,10 @@ I'm a passionate Site Reliability Developer with over 14 years of experience in 
 - CI/CD
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-ersauraja-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ersauraja)](https://linkedin.com/in/ersauraja)
+[![LinkedIn](https://img.shields.io/badge/-saurabhuja-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/saurabhuja)](https://linkedin.com/in/saurabhuja)
 
 ## GitHub Contribution Chart
-Check out my recent contributions on [GitHub](https://github.com/ersauraja).
+Check out my recent contributions on [GitHub](https://github.com/saurabhuja).
 
 ## Languages and Tools
 - Shell
@@ -51,8 +51,8 @@ Check out my recent contributions on [GitHub](https://github.com/ersauraja).
 - Google Cloud
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ersauraja&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ersauraja&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhuja&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhuja&show_icons=true)
 
 ## Experience
 
