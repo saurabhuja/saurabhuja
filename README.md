@@ -1,54 +1,35 @@
 # Hi there, I'm Saurabh Ahuja 👋
 
 ## About Me
-I'm a passionate Site Reliability Developer with over 14 years of experience in Public Cloud, Private Cloud, and on-premise infrastructure. I specialize in Python and have a strong interest in learning new technologies like Golang, Rust, and Ansible.
+I'm a Software Developer with over 15 years of experience in Public Cloud, Private Cloud, and on-premise infrastructure. I specialize in Golang, Python , Ansible ,Kubernetes,  Container Technologies , Cloud and Terraform.
 
 [![GitHub Profile](https://img.shields.io/badge/-saurabhuja-black?style=flat&logo=github&logoColor=white&link=https://github.com/saurabhuja)](https://github.com/saurabhuja)
 
 ### 🌱 Currently Learning
 - Golang
-- Java
-- Rust
-- Ansible
+- Kubernetes Operator Development
+- Ansible Playbooks
+- Generative AI
+- REST API Development
 
 ### 👯‍♂️ Looking to Collaborate On
+- Cloud
 - Python
 - Golang
 - Ansible
-- REST API
 - Java
 - Terraform
 - Podman
 - Docker
-- K8S
+- Kubernetes
 - CI/CD
+- Linux
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-saurabhuja-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/saurabhuja)](https://linkedin.com/in/saurabhuja)
 
 ## GitHub Contribution Chart
 Check out my recent contributions on [GitHub](https://github.com/saurabhuja).
-
-## Languages and Tools
-- Shell
-- Python
-- Java
-- .NET
-- Groovy
-- C
-- GoLang
-- NodeJS
-- Docker
-- Kubernetes
-- Ansible
-- Terraform
-- Jenkins
-- Git
-- MySQL
-- Oracle
-- AWS
-- Azure
-- Google Cloud
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhuja&layout=compact)
@@ -59,8 +40,8 @@ Check out my recent contributions on [GitHub](https://github.com/saurabhuja).
 ### Oracle India Pvt Ltd, Bangalore (Oct 2017 - Present)
 #### Principal Member Technical Staff
 - **Key Contributions:**
-  - Developed Ansible Framework to build and deploy Oracle RAC on Docker & Podman with Blockdevices and NFS Storage Devices.
-  - Developed a Kubernetes (K8S) operator through Golang for RAC Database. This operator streamlined the deployment and management of database instances, enhancing efficiency and reliability.
+  - Developing Ansible Framework to build and deploy Oracle RAC on Docker & Podman with Blockdevices and NFS Storage Devices.
+  - Developing a Kubernetes (K8S) operator through Golang for RAC Database. This operator streamlined the deployment and management of database instances, enhancing efficiency and reliability.
   - Implemented Continuous Integration/Continuous Deployment (CI/CD) pipelines for the Identity project (IDCS) using Ansible and Terraform. This involved automating build, test, and deployment processes, leading to faster delivery cycles and improved quality.
   - Managed Cloud Infrastructure Provisioning of the IDCS product in Oracle Cloud, ensuring regular upgrades, stability, and high availability. This involved configuration management, monitoring, and optimization of cloud resources.
 
