@@ -1,10 +1,10 @@
 # Hi there, I'm Saurabh Ahuja 👋
 
 ## About Me
-I'm a Software Developer with around 15 years of experience in Public Cloud, Private Cloud, and on-premise infrastructure.  
-I specialize in Golang, Python , Ansible , Kubernetes,  Container Technologies , Cloud and Terraform.  
-Worked in different projects involving Software Releases, Configuration Management, CI/CD, Devops, Cloud, SRE, etc.   
-I am currently working in Oracle RACPACK MAA Solution Engineering team with Oracle India Pvt Ltd, Bangalore, India.   
+- I'm a Software Developer with around 15 years of experience in Public Cloud, Private Cloud, and on-premise infrastructure.  
+- I specialize in Golang, Python , Ansible , Kubernetes,  Container Technologies , Cloud and Terraform.  
+- Worked in different projects involving Software Releases, Configuration Management, CI/CD, Devops, Cloud, SRE, etc.   
+- I am currently working in Oracle RACPACK MAA Solution Engineering team with Oracle India Pvt Ltd, Bangalore, India.   
 
 [![GitHub Profile](https://img.shields.io/badge/-saurabhuja-black?style=flat&logo=github&logoColor=white&link=https://github.com/saurabhuja)](https://github.com/saurabhuja)
 
