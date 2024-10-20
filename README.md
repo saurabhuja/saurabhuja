@@ -59,6 +59,7 @@ Stuff I contribute professionally for Oracle, including the following repositori
 - [oracle-database-operator](https://github.com/oracle/oracle-database-operator)
 - [db-sharding](https://github.com/oracle/db-sharding)
 
-I also contribute to the official Oracle Container images on the [Oracle Container Registry](https://container-registry.oracle.com/).
+I also contribute to the official Oracle Container images on the [Oracle Container Registry](https://container-registry.oracle.com/).  
+Hobby'ing linux development on [RupeeOS](https://github.com/RupeeOS/rupeeos-iso/tree/main)
 
 
